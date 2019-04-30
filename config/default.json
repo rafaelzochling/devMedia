@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://devmediabackadmin:passwd123@cluster0-oyigs.gcp.mongodb.net/test?retryWrites=true"
+}
