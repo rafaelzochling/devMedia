@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://devmediabackadmin:passwd123@cluster0-oyigs.gcp.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "secureTokenForAuth"
+  "jwtSecret": "secureTokenForAuth",
+  "githubClientId": "d37f3d9fcd20065116b0",
+  "githubSecret": "4badb1979f8279fcad50e0acb6b20247b662b7dd"
 }
